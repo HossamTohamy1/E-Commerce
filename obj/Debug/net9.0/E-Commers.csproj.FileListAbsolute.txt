@@ -1,0 +1,519 @@
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\appsettings.json
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\E-Commers.staticwebassets.endpoints.json
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\E-Commers.exe
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\E-Commers.deps.json
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\E-Commers.runtimeconfig.json
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\E-Commers.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\E-Commers.pdb
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Humanizer.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\E-Commers.csproj.AssemblyReference.cache
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\E-Commers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\E-Commers.AssemblyInfoInputs.cache
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\E-Commers.AssemblyInfo.cs
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\E-Commers.csproj.CoreCompileInputs.cache
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\E-Commers.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\E-Commers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\scopedcss\bundle\E-Commers.styles.css
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\staticwebassets\msbuild.E-Commers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\staticwebassets\msbuild.E-Commers.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\staticwebassets\msbuild.build.E-Commers.props
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.E-Commers.props
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.E-Commers.props
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\E-Commers.csproj.Up2Date
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\E-Commers.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\refint\E-Commers.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\E-Commers.pdb
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\E-Commers.genruntimeconfig.cache
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\ref\E-Commers.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hossny D. monkey\source\repos\E-Commers\E-Commers\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\appsettings.Development.json
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\appsettings.json
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\E-Commers.staticwebassets.endpoints.json
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\E-Commers.exe
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\E-Commers.deps.json
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\E-Commers.runtimeconfig.json
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\E-Commers.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\E-Commers.pdb
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Azure.Core.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Azure.Identity.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Humanizer.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\System.ClientModel.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\System.CodeDom.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\System.Memory.Data.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET API\E-Commers\E-Commers\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\E-Commers.csproj.AssemblyReference.cache
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\E-Commers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\E-Commers.AssemblyInfoInputs.cache
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\E-Commers.AssemblyInfo.cs
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\E-Commers.csproj.CoreCompileInputs.cache
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\E-Commers.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\E-Commers.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\scopedcss\bundle\E-Commers.styles.css
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\staticwebassets.build.json
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\staticwebassets.development.json
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\staticwebassets\msbuild.E-Commers.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\staticwebassets\msbuild.E-Commers.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\staticwebassets\msbuild.build.E-Commers.props
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.E-Commers.props
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.E-Commers.props
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\staticwebassets.pack.json
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\E-Commers.csproj.Up2Date
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\E-Commers.dll
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\refint\E-Commers.dll
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\E-Commers.pdb
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\E-Commers.genruntimeconfig.cache
+D:\ASP.NET API\E-Commers\E-Commers\obj\Debug\net9.0\ref\E-Commers.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\appsettings.Development.json
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\appsettings.json
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\E-Commers.staticwebassets.endpoints.json
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\E-Commers.exe
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\E-Commers.deps.json
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\E-Commers.runtimeconfig.json
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\E-Commers.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\E-Commers.pdb
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Azure.Core.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Azure.Identity.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Humanizer.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\System.ClientModel.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\System.CodeDom.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\System.Memory.Data.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\E-Commers.csproj.AssemblyReference.cache
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\E-Commers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\E-Commers.AssemblyInfoInputs.cache
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\E-Commers.AssemblyInfo.cs
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\E-Commers.csproj.CoreCompileInputs.cache
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\E-Commers.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\E-Commers.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\scopedcss\bundle\E-Commers.styles.css
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\staticwebassets.build.json
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\staticwebassets.development.json
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\staticwebassets\msbuild.E-Commers.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\staticwebassets\msbuild.E-Commers.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\staticwebassets\msbuild.build.E-Commers.props
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.E-Commers.props
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.E-Commers.props
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\staticwebassets.pack.json
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\E-Commers.csproj.Up2Date
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\E-Commers.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\refint\E-Commers.dll
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\E-Commers.pdb
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\E-Commers.genruntimeconfig.cache
+D:\ASP.NET API\E-Commers - Copy (2)\E-Commers\obj\Debug\net9.0\ref\E-Commers.dll
